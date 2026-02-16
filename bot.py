@@ -1,0 +1,1 @@
+print("QuickMart Bot Starting 🚀")
